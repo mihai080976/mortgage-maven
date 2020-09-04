@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mortgage-maven">
+    <output-path>$PROJECT_DIR$/out/artifacts/mortgage_maven</output-path>
+    <root id="archive" name="mortgage-maven.jar">
+      <element id="archive" name="mortgage_maven.jar">
+        <element id="module-output" name="mortgage-maven" />
+      </element>
+    </root>
+  </artifact>
+</component>
